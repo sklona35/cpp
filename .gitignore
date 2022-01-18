@@ -1,0 +1,6 @@
+*.exe
+*.bin
+
+.cph/
+.vscode/
+rsdf
